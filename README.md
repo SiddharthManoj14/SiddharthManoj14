@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Sid
+Hi I'm Sid <\n>
 I'm interested in Electronics and their related software applications.
