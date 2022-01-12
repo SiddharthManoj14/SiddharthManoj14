@@ -8,7 +8,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Bootstrap", "Material Design", "Semantic UI", "Sass"]
+         css: ["Bootstrap", "Sass"]
       },
       backEnd: {
          js: ["Node", "Express"],
