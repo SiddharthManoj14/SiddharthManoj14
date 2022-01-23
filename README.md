@@ -1,4 +1,4 @@
-<p><em>A bachelor student at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br>
+<p><em>Third year undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br>
 </em></p>
 
 
