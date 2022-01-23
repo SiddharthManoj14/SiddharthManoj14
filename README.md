@@ -13,7 +13,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
          },
-      databases: ["MongoDB", "mySQL"]
+      databases: ["MongoDB", "MySQL"]
    },
    currentOccupation: ["third year student, open for job opportunities"]
 };
