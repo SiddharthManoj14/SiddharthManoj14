@@ -4,7 +4,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, C++, C],
+   code: [Javascript, HTML, CSS, C++, C, C#],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -15,7 +15,7 @@ const aboutMe = {
          },
       databases: ["MongoDB", "MySQL"]
    },
-   currentOccupation: ["third year student, open for job opportunities"]
+   currentOccupation: ["SWE Intern @QuinLogic GmbH"]
 };
 ```
 </br></br>
