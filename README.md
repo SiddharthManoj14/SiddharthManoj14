@@ -1,4 +1,4 @@
-<b><p><em>Hi There! </br></em></p></b>
+<b><p>Hi There! </br><p></b>
 <p>My name is Siddharth and I am an undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br></p>
 
 ⚡ Work experience: <br>
