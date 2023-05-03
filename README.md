@@ -1,6 +1,10 @@
-<p><em>Undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br>
-</em></p>
+<b><p><em>Hi There! </br></em></p></b>
+<p><em>My name is Siddharth and I am an undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br>
+</em></p> 
 
+``` <p><em>Undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br>
+</em></p>
+```
 
 ```javascript
 const aboutMe = {
