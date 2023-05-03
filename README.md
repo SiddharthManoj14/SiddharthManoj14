@@ -7,7 +7,7 @@
 
 - **Software Engineer Intern at QuinLogic GmbH (part of SMS Group)** - Full-stack development for the Integration and Solution Development (ISD) team. [Aachen, Germany, January 2023 till July 2023]
 
-🌱 Focus: Full-stack development (C#, .NET, SQL, LINQ, EF Core)
+🌱 Focus: Full-stack development (C#, .NET, SQL, LINQ, EF Core)</br>
            Web Development (ReactJS, NodeJS, MongoDB, Express) 
 
 
