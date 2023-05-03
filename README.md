@@ -1,5 +1,5 @@
 <b><p><em>Hi There! </br></em></p></b>
-<p><em>My name is Siddharth and I am an undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br></em></p>
+<p>My name is Siddharth and I am an undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br></p>
 
 ⚡ Work experience: <br>
 - **Software Enginer Intern at QuinLogic GmbH (part of SMS Group)** - Back-end development for the Integration and Solution Development (ISD) team. [Aachen, Germany, Summer 2022] - Was awarded a DAAD (German Academic Exchange Service) Scholarship for the duration of my stay in Germany.
