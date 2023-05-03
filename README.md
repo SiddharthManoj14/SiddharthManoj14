@@ -2,10 +2,12 @@
 <p>My name is Siddharth and I am an undergrad at Manipal Institute of Technology, majoring in Electrical and Electronics Engineering. 😊</br></p>
 
 ⚡ Work experience: <br>
+
+- **Software Engineer Intern at QuinLogic GmbH (part of SMS Group)** - Full-stack development for the Integration and Solution Development (ISD) team. [Aachen, Germany, January 2023 till July 2023]
+
 - **Software Enginer Intern at QuinLogic GmbH (part of SMS Group)** - Back-end development for the Integration and Solution Development (ISD) team. [Aachen, Germany, Summer 2022] 
 - Was awarded a DAAD (German Academic Exchange Service) Scholarship for the duration of my stay in Germany.
 
-- **Software Engineer Intern at QuinLogic GmbH (part of SMS Group)** - Full-stack development for the Integration and Solution Development (ISD) team. [Aachen, Germany, January 2023 till July 2023]
 
 🌱 Focus: Full-stack development (C#, .NET, SQL, LINQ, EF Core)</br>
           Web Development (ReactJS, NodeJS, MongoDB, Express) 
